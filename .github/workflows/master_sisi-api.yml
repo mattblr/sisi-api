@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'sisi-api'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e6f9661eb4d74f35b7e722c69fc0c75e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_614fb92f9a83450fb2989a54b46ac9ca }}
         package: .
