@@ -41,7 +41,7 @@ mongoose
     { useNewUrlParser: true }
   )
   .then(() => {
-    app.listen(3000, "0.0.0.0");
+    app.listen(process.env.PORT);
   })
   .catch((err: Error) => {
     console.log(err);
