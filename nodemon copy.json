@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "cv-dev",
+    "MONGO_PASSWORD": "zuvwyc-kobjIh-9sixte",
+    "MONGO_DB": "corona-dev",
+    "PORT": "3000"
+  }
+}
